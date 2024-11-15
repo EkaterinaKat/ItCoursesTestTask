@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/home_title" />
+
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/favorites_title" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:title="@string/account_title" />
+
+</menu>
