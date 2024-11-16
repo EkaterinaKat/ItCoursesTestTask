@@ -49,8 +49,8 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
 
-    implementation("com.google.dagger:dagger:2.35.1")
-    kapt("com.google.dagger:dagger-compiler:2.35.1")
+    implementation("com.google.dagger:dagger:2.52")
+    kapt("com.google.dagger:dagger-compiler:2.52")
 
     implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
     implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
